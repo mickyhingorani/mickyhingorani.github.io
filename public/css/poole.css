@@ -224,6 +224,15 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/*
+ * MICKY ADDED
+ *
+ * Make the footer text smaller.
+ */
+
+.footer {
+  font-style: .75em;
+}
 
 /*
  * Custom type
