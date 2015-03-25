@@ -331,10 +331,12 @@ tbody tr:nth-child(odd) th {
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: -.1rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 /* Related posts */
