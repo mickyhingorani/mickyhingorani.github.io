@@ -79,7 +79,11 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
+<<<<<<< HEAD
   font-weight: bold;
+=======
+  font-weight: normal;
+>>>>>>> origin/master
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
