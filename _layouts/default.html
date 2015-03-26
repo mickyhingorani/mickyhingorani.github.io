@@ -7,12 +7,12 @@
   <body>
 
     <div class="container content">
-      <div class="masthead hoverEffect">
+      <div class="masthead">
         <h3 class="masthead-title">
-          <a href="/" title="Home">{{ site.title }}</a>
+          <a class="hoverEffect" href="/" title="Home">{{ site.title }}</a>
 
-          {% for page in site.pages_list %}
-              &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+          <span class="hoverEffect">{% for page in site.pages_list %}</span>
+              &nbsp;&nbsp;&nbsp;<small><a class="hoverEffect" href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
 
         </h3>
