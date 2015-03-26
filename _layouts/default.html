@@ -11,7 +11,7 @@
         <h3 class="masthead-title">
           <a class="hoverEffect" href="/" title="Home">{{ site.title }}</a>
 
-          <div class="hoverEffect">{% for page in site.pages_list %}</div>
+          {% for page in site.pages_list %}
               &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
 
