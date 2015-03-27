@@ -237,6 +237,12 @@ tbody tr:nth-child(odd) th {
   color: rgb(271,120,92);
 }
 
+.profilePic {
+  border-radius: 50%;
+  float: right;
+  padding-left: 2rem;
+}
+
 /*
  * Custom type
  *
