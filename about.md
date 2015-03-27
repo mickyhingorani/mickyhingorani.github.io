@@ -7,9 +7,7 @@ title: About
 
 **Hello! I'm glad you came!**
 
-<div class="profilePic">
-![A picture of me with green "Kanye West" glasses.](/assets/me.jpg)
-</div>
+![A picture of me with green "Kanye West" glasses.](/assets/me.jpg){ float:right }
 
 My name is Micky. When I'm not at work, doing digital communications for [AVAC: Global Advocacy for HIV Prevention](http://www.avac.org/), you'll likely find me playing football, learning front end web development, or doing condo board stuff as a condo board member.
 
