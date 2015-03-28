@@ -28,7 +28,7 @@ But, um, that didn't work. Because I'm a trusting sort and an optimist, I tried:
 $ sudo gem install jekyll
 ```
 
-As an idiot's guide, I should note, when you use `sudo`, you're telling the computer you're the super user ("super user do"). It should do whatever you're telling it. If you don't know what you're doing, you can break things.
+As an idiot's guide, I should note, when you use *sudo*, you're telling the computer you're the super user ("super user do"). It should do whatever you're telling it. If you don't know what you're doing, you can break things.
 
 >I should also mention that you, um, don't have to install Jekyll. If your ultimate goal is to host this site on GitHub Pages, they do all the behind the scenes stuff for you. Skip to Part II below, fork an existing Jekyll blog, and you can be live in five minutes. You really only need Jekyll if you want to build this website locally, develop from there, and then push it live. If you're like me, you're not getting all that many hits so you can fumble around a bit on a live site and skip this whole process. But if you're into it, good for you. I did learn something.
 
@@ -38,7 +38,7 @@ Back to installing Jekyll, I plugged the error codes I was seeing into Google. I
 
 First I installed Xcode, then Homebrew. I continue to have no idea what either do. Then rbenv, which I believe helps you pick a version of Ruby.
 
-I seemed to be unable to access to the version of Ruby that my Mac OS is using. I tried installing another version of Ruby, using rbenv (I think!). Still no `gem install jekyll`. I didn't try sudo because at this point I was legitimately worried about breaking something.
+I seemed to be unable to access to the version of Ruby that my Mac OS is using. I tried installing another version of Ruby, using rbenv (I think!). Still no *gem install jekyll*. I didn't try sudo because at this point I was legitimately worried about breaking something.
 
 Next stop, rvm, which is a Ruby version manager (or something). [I installed that](http://davidensinger.com/2013/03/installing-jekyll/) and said:
 
@@ -48,7 +48,7 @@ $ rvm use 2.2.1
  
 I was told I didn't have Ruby 2.2.1. So I installed Ruby again. At this point, I assume I have three versions Ruby installed, though no idea where to find them.
 
-I tried that line again, telling the computer to *use* this version of Ruby. And it seems to work. `Sure, bud.` It said something like that.
+I tried that line again, telling the computer to *use* this version of Ruby. And it seems to work. *Sure, bud.* It said something like that.
 
 ```
 $ gem install jekyll
