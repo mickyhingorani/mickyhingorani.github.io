@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  color: rgb(152,156,159);
+  color: rgb(170,170,170);
   background-color: rgb(56,64,68);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -187,7 +187,7 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
+  color: rgb(170,170,170);
   border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
