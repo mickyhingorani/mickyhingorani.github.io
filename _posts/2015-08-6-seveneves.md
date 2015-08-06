@@ -4,8 +4,6 @@ title: "Seveneves: The Book Review Nobody Asked For"
 permalink: Seveneves
 ---
 
-##Seveneves: The Book Review Nobody Asked For##
-
 If the moon blows up and threatens to rain itself down on us in fiery meteorites, Neal Stephenson should probably be one of the few we send into space to carry humankind forward.
 
 He'd be a a good fit, not just because of his clear attention to detail and devotion to a variety of, sometimes soporific, subjects. He also wrote the book on it with the truly epic *Seveneves.*
