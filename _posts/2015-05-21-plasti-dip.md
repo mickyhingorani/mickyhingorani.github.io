@@ -12,9 +12,9 @@ I finally bought a nice pair of headphones. Based pretty much only on a [Wirecut
 
 This felt like too short of a time before having to buy new headphones. With my warranty expired I sought a temporary solution. I wanted to find some stop gap measure to allow my headphones to last two full years. After some online searching, here were the options I found:
 
-[Heat Shrink Wirewrap](http://smile.amazon.com/b?node=700782011&sa-no-redirect=1) - Cool but I didn't think a lot of the wire would be wide enough, before the heating, to go over the earbuds, etc.
+[Heat Shrink Wirewrap](http://smile.amazon.com/b?node=700782011&sa-no-redirect=1) — Cool but I didn't think a lot of the wire would be wide enough, before the heating, to go over the earbuds, etc.
 
-[Rerack Dishwasher Rack Repair](http://smile.amazon.com/Rerack-Dishwasher-Rack-Repair-630076/dp/B00I9SK73K?sa-no-redirect=1) - Seemed very similar to Plasti Dip, just made a judgment call that Plasti Dip might work better. 
+[Rerack Dishwasher Rack Repair](http://smile.amazon.com/Rerack-Dishwasher-Rack-Repair-630076/dp/B00I9SK73K?sa-no-redirect=1) — Seemed very similar to Plasti Dip, just made a judgment call that Plasti Dip might work better. 
 
 [Sugru](https://sugru.com/) — I really wanted to buy this &mdash; useful Play Doh for adults? Sign me up! I saw some photos of headphones fixed using Sugru but it seemed difficult to get the very light coating of material over the fraying that I was looking for. Plus I just had too many frays and tears. I needed a better, more thorough coating.
 
