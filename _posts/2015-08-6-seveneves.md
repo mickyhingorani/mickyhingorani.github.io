@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seveneves: The Book Review Nobody Asked For"
-permalink: Seveneves
+permalink: seveneves
 ---
 
 If the moon blows up and threatens to rain itself down on us in fiery meteorites, Neal Stephenson should probably be one of the few we send into space to carry humankind forward.
