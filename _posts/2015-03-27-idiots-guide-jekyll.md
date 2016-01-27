@@ -60,7 +60,7 @@ That took about two hours to figure out.
 
 ##Part II: In Which the Idiot Gets His Blog
 
-When you're learning something, you need a lot of small victories to keep you going. Diving into whatever Jekyll is and thining about gems and Ruby meant I probably didn't have the mental stamina to then create a blog from scratch. So I found templates for Jekyll that used more technology I don't particularly understand. [I chose Poole.](http://getpoole.com/)
+When you're learning something, you need a lot of small victories to keep you going. Diving into whatever Jekyll is and thinking about gems and Ruby meant I probably didn't have the mental stamina to then create a blog from scratch. So I found templates for Jekyll that used more technology I don't particularly understand. [I chose Poole.](http://getpoole.com/)
 
 Poole is effectively a Jekyll blog preconfigured for you, featuring simple, attractive templates and example posts. It's bare bones but read to me as clean and sophisticated.
 
